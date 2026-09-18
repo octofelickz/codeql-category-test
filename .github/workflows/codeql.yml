@@ -32,4 +32,4 @@ jobs:
         with:
           # Hardcoded (decoupled from matrix.language) so it can be renamed
           # independently of the language config for test flow 3.
-          category: "/language:javascript"
+          category: "/language:javascript-renamed-v2"
